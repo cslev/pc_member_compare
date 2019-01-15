@@ -80,7 +80,7 @@ do
 done
 
 MATCH_NUM=$(cat $OUTPUT|wc -l)
-echo -e "${green}We have found ${MATCH_NUM} matching TPC members in the inersection of ${INPUT1} and ${INPUT2}"
+echo -e "${green}We have found ${MATCH_NUM} matching TPC members in the intersection of ${INPUT1} and ${INPUT2}"
 echo -e "\n"
 PERCENTAGE=$(calc "($MATCH_NUM/$ENTRY_NUM_INPUT1)*100")
 echo -e "${green}${PERCENTAGE}% of ${INPUT1} has been a TPC in ${INPUT2}${none}"
