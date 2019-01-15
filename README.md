@@ -19,6 +19,7 @@ The intersection (if there is any) will be printed out to <input_file1___VS___in
 Ensure your input files contain only the name and nothing more!
 ```
 # Example
+See some example TPC list in the repository and compare them!
 ```
 ./compare.sh asiaccs_2019 ccs_2018
 ```
