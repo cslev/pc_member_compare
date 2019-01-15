@@ -31,7 +31,7 @@ function show_help
   echo -e "${green}Example: ./compare_tcp.sh <input_file1> <input_file2>${none}"
   echo -e "Input files are plain text files, each line containing the name of a PC member"
   echo -e "${yellow}<input_file1> is the conference you are aiming at, i.e., comparison and percentage information will be calculated accordingly!${none}"
-  echo -e "The intersection (if there is any) will be printed out to <input_file1___VS___input_file2> as well as to SDTOUT"
+  echo -e "The intersection (if there is any) will be printed out to <input_file1___VS___input_file2> as well as to STDOUT"
   echo -e "${yellow}Ensure your input files contain only the name and nothing more!${none}"
   exit
 }
