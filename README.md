@@ -51,7 +51,7 @@ We have found 20 matching TPC members in the inersection of asiaccs_2019 and ccs
 20.6186% of asiaccs_2019 has been a TPC in ccs_2018
 [DONE]
 ```
-This means that if your paper from CCS 2018 has been rejected and considering resubmitting to the lower-ranked AsiaCCS conference, you might end up having the same reviewers, or at least someone might recognize your paper as a resubmitted one. 
+This means that if your paper from CCS 2018 has been rejected and you are considering resubmitting to the lower-ranked AsiaCCS conference, you might end up having the same reviewers, or at least someone might recognize your paper as a resubmitted one. 
 
 # What this application does not do for you
 Preparing the text files with the names is your task.
