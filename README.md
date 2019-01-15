@@ -47,7 +47,7 @@ Match logged:  Yang Liu
 Match logged:  Yinqian Zhang 
 Match logged:  Yongdae Kim 
 Match logged:  Yuan Tian 
-We have found 20 matching TPC members in the inersection of asiaccs_2019 and ccs_2018
+We have found 20 matching TPC members in the intersection of asiaccs_2019 and ccs_2018
 
 
 20.6186% of asiaccs_2019 has been a TPC in ccs_2018
