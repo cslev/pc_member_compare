@@ -8,15 +8,16 @@ $ chmod +x compare_tcp.sh
 ```
 
 ## How to use
-Example: ./compare_tcp.sh <input_file1> <input_file2>
+Example: `./compare_tcp.sh <input_file1> <input_file2>`
 
+```
 Input files are plain text files, each line containing the name of a PC member
 
-`<input_file1>` is the conference you are aiming at, i.e., comparison and percentage information will be calculated accordingly!
+<input_file1> is the conference you are aiming at, i.e., comparison and percentage information will be calculated accordingly!
 
-The intersection (if there is any) will be printed out to `<input_file1___VS___input_file2>` as well as to `STDOUT`
+The intersection (if there is any) will be printed out to <input_file1___VS___input_file2> as well as to `STDOUT`
 Ensure your input files contain only the name and nothing more!
-
+```
 # Example
 ```
 ./compare.sh asiaccs_2019 ccs_2018
