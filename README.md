@@ -65,4 +65,4 @@ The easiest way is the following:
  - Cut out all new columns except the first one where you have clicked to paste the clipboard
  - Save to .csv
 
-Of course, there are several other ways to do that (e.g., run your crawler)
+Of course, there are several other ways to do that (e.g., run your own crawler script :))
